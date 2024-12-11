@@ -34,6 +34,7 @@ To add a new paper:
 
     **Description:** A brief summary of the paper's use of the ManiSkill framework.
     ```
+4. **Commit your changes** and **submit a pull request**.
 
 ## License
 
