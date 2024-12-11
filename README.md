@@ -8,8 +8,7 @@ A curated list of academic papers that utilize the [ManiSkill](https://github.co
 - [2023](./2023.md)
 - [2022](./2022.md)
 - [2021](./2021.md)
-- [Contributing](#contributing)
-
+  
 ## About ManiSkill
 
 [ManiSkill](https://github.com/haosulab/ManiSkill) is a robotics simulator built on top of SAPIEN, providing a standard Gym/Gymnasium interface for easy integration with reinforcement learning (RL) and imitation learning workflows. It supports GPU and CPU simulation, fast parallelized rendering, and various observation and control modes.
