@@ -20,14 +20,21 @@ Browse through the yearly categories to find papers that have leveraged the Mani
 
 ## Contributing
 
-We welcome contributions! To add a new paper, please follow these steps:
+To add a new paper:
 
-1. Fork the repository.
-2. Navigate to the `papers/` directory and select the appropriate year file (e.g., `2024.md`).
-3. Add your paper in the specified format.
-4. Submit a pull request.
+1. **Fork the repository.**
+2. **Open the markdown file for the relevant year** (e.g., `2024.md`).
+3. **Add your paper using the following format:**
 
-Please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file for more details.
+    ```markdown
+    ## [Paper Title Here](DOI_or_Link)
+
+    **Authors:** Author One, Author Two, Author Three
+
+    **Publication Venue:** *Conference or Journal Name*, Year.
+
+    **Description:** A brief summary of the paper's use of the ManiSkill framework.
+    ```
 
 ## License
 
