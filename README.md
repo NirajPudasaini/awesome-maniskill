@@ -4,10 +4,10 @@ A curated list of academic papers that utilize the [ManiSkill](https://github.co
 
 ## Table of Contents
 
-- [2024](./papers/2024.md)
-- [2023](./papers/2023.md)
-- [2022](./papers/2022.md)
-- [2021](./papers/2021.md)
+- [2024](./2024.md)
+- [2023](./2023.md)
+- [2022](./2022.md)
+- [2021](./2021.md)
 - [Contributing](#contributing)
 
 ## About ManiSkill
