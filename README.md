@@ -1,6 +1,7 @@
 # Awesome ManiSkill Papers
 
 A curated list of academic papers that utilize the [ManiSkill](https://github.com/haosulab/ManiSkill) framework, categorized by year of publication.
+Part of the lists are taken from : https://www.maniskill.ai/research
 
 ## Table of Contents
 
