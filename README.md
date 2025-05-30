@@ -37,6 +37,11 @@ To add a new paper:
     ```
 4. **Commit your changes** and **submit a pull request**.
 
+
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ashutosh00710/github-readme-activity-graph&type=Timeline)](https://www.star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
