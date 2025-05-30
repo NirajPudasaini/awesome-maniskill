@@ -44,4 +44,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ashutosh00710/github-readme-activity-graph&type=Timeline)](https://www.star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=NirajPudasaini/awesome-maniskill&type=Date)](https://www.star-history.com/#NirajPudasaini/awesome-maniskill&Date)
